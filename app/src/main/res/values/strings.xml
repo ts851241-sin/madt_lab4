@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="title_main">My Notes</string>
+    <string name="menu_add">Add Note</string>
+    <string name="menu_delete">Delete Note</string>
+    <string name="menu_toggle_storage">Switch Storage</string>
+    <string name="storage_prefs">Shared Prefs</string>
+    <string name="storage_files">Files</string>
+    <string name="hint_note_name">Note title</string>
+    <string name="hint_note_content">Note content</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="toast_empty_title">Title cannot be empty</string>
+    <string name="toast_empty_content">Content cannot be empty</string>
+    <string name="toast_saved">Saved</string>
+    <string name="toast_deleted">Deleted</string>
+    <string name="toast_select_note">Select a note to delete</string>
+    <string name="storage_now">Storage: %1$s</string>
+</resources>
